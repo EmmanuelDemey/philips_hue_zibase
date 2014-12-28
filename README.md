@@ -10,6 +10,8 @@ corresponding Philips Hue API
 
 How To
 ==================
+In the GO script, you need first to update the baseUrl property with the IP address of your Philips Hue module and with the available Hue user. More information on the Getting started doc : http://www.developers.meethue.com/documentation/getting-started
+
 ```
 go run hue_zibase.go
 ```
